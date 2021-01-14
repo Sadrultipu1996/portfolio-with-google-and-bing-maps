@@ -1,0 +1,24 @@
+<!DOCTYPE html>  
+<head>
+    <title>Maps</title> 
+</head>
+  <body bgcolor="#00ffff">      
+    <h1>Welsh Map (Google Maps API)</h1> 
+      <div id = "mapframe" style="height: 600px; width: 50%; 
+         background-color: lightpink; border: 2px solid black; margin-left: 50px; margin-top: 40px"></div> 
+        
+         <script> 
+         function draw_map() {​​​​ 
+
+         var map_ops = {​​​​ 
+        center: new google.maps.LatLng(51.417, -3.573),  
+        zoom: 7, 
+        mapTypeId: google.maps.MapTypeId.ROADMAP, }​​​​; 
+
+            var theMap = new google.maps.Map(document.getElementById("mapframe"), map_ops); 
+    }​​​​ 
+         </script>     
+
+     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChP0X3tAr2MXH9QRtdlUbu3FnW2xasbOM&callback=draw_map"> </script> 
+  </body> 
+</html>

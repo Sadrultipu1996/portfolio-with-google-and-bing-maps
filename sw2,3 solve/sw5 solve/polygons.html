@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Tipu</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        div.dark {
+         
+          padding-left: 50px;
+        }
+        </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Sadrul Akhter</span> Tipu</h1>
+        </div>
+		<nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../contact.html" style="color: rgb(192, 18, 18);">Contact</a></li>
+            <li><a href="../works.html">My Work</a></li>
+            <li><a href="../mymaps.html">My Maps</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+	<div class="dark">
+<center>
+<button type="nav" class="button_1" ><a href="swinseaMarker.html">Swansea Marker</a></button>
+<button type="nav" class="button_1" ><a href="castlesinwales.html">Castles in Wales</a></button>
+<button type="nav" class="button_1" ><a href="polygons.html">Polygons</a></button>
+<button type="nav" class="button_1" ><a href="routing.html">Routing</a></button>
+<button type="nav" class="button_1" ><a href="interactiveMarker.html">Interactive Marker</a></button>
+</center>
+<h1>Polygons</h1>
+
+<div id="googleMap" style="width:100%;height:400px;border: 2px solid black;"></div>
+
+<script>
+function myMap() {
+
+var mapProp= {
+  center:new google.maps.LatLng(51.417,-3.573),
+  zoom:6,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+var area1 = [
+	{lat:51.86,lng: -3.95},
+	{lat:51.93,lng: -3.85},
+	{lat:52.01,lng: -3.72},
+	{lat:51.96,lng: -3.65},					
+	{lat:51.87,lng: -3.60},
+	{lat:51.86,lng: -3.76},
+	{lat:51.84,lng: -3.91},
+	{lat:51.86,lng: -3.95}	
+];		
+
+var area2 = [
+	{lat:53.10,lng: -3.90},
+	{lat:52.81,lng: -3.59},
+	{lat:52.75,lng: -3.82},
+	{lat:52.83,lng: -4.05},
+	{lat:53.10,lng: -3.90}
+];
+var flightPath1 = new google.maps.Polygon({
+  path:area1,
+  strokeColor:"#0000FF",
+  strokeOpacity:0.8,
+  strokeWeight:2,
+  fillColor:"#0000FF",
+  fillOpacity:0.4
+});
+var flightPath2 = new google.maps.Polygon({
+  path:area2,
+  strokeColor:"#0000FF",
+  strokeOpacity:0.8,
+  strokeWeight:2,
+  fillColor:"#0000FF",
+  fillOpacity:0.4
+});
+flightPath1.setMap(map);
+flightPath2.setMap(map);
+
+}
+
+
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcmwrX8vxpNkSnZZScp5WboKzRycDJ9Zo&callback=myMap"></script>
+
+</div>
+</div>
+<footer>
+    Created by TIPU
+  </footer>
+</body>
+</html>

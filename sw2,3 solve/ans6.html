@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div id="text" class="column" style="background-color:#aaa;">6.	Create an HTML document. It should contain at least 2 divisions (you’ll need to use the div tag). One of the divisions should include a block of text. One of the other divisions should include an image. The page must also include 2 buttons. Clicking on the first of these buttons must trigger a change of colour and font-size of the block of text. Clicking the second button must result in the initial image being replaced with a replacement image.";
+</div>
+
+  <div id="image" class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <img id="myImage" src="tipu.jpeg" width="150" height="200">
+  </div>
+</div>
+
+     <center> <button onclick="changetext()">Change Text</button> <button onclick="changeimage()">Change Image</button></center></br>
+    <script>
+        function changeimage(){
+            document.getElementById("myImage").src = "omen.png";
+            }
+        function changetext(){
+            document.getElementById("text").style.color = "blue";
+            document.getElementById("text").style.fontSize = "18px";
+            }
+    </script>
+  </body>
+</html>

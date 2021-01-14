@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" hint="LOCALITY">
+<Document>
+<name>Recent earthquakes</name>
+<atom:author><atom:name>British Geological Survey</atom:name></atom:author>
+<visibility>1</visibility>
+<description><![CDATA[Recent world seismic events recorded by the BGS Seismology team (last updated 10:50:06, Mon Nov 25, 2013) ]]></description>
+<Style id="kml_style_ft_Seismic event">
+<LabelStyle><color>FF00CCFF</color><scale>0.9</scale></LabelStyle>
+<IconStyle><color>FF00FFFF</color><scale>1</scale><Icon><href>http://www.bgs.ac.uk/images/kml/earthquake.png</href></Icon></IconStyle>
+<BalloonStyle><bgColor>FFFFFFFF</bgColor><text><![CDATA[<div align="left"><b><font color="#25408F" size="+1">$[name]</font></b><hr/>$[description]<hr /><em>Data provided by the British Geological Survey Earthquake Seismology Team<br /><a href="http://www.earthquakes.bgs.ac.uk/index.html">http://www.earthquakes.bgs.ac.uk/index.html</a></em></div>]]></text></BalloonStyle>
+</Style>
+<Placemark id="1">
+<name>Earthquake alert : M 7.0 :SOUTH ATLANTIC OCEAN</name>
+<address><a href="/earthquakes/recent_events/20131125062709.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-11-25 06:27</td></tr>
+<tr><th align="left">Location</th><td>SOUTH ATLANTIC OCEAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -54.882,-53.881</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>7.0</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131125062709.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -54.882,-53.881</coordinates></Point>
+</Placemark><Placemark id="2">
+<name>Earthquake alert : M 6.5 :FIJI ISLANDS REGION</name>
+<address><a href="/earthquakes/recent_events/20131123080335.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-11-23 07:48</td></tr>
+<tr><th align="left">Location</th><td>FIJI ISLANDS REGION</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-176.562,-17.097</td></tr>
+<tr><th align="left">Depth</th><td>371</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131123080335.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-176.562,-17.097</coordinates></Point>
+</Placemark><Placemark id="3">
+<name>Earthquake alert : M 4.0 :BRITTANY,NW FRANCE</name>
+<address><a href="/earthquakes/recent_events/20131121095214.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-11-21 09:53</td></tr>
+<tr><th align="left">Location</th><td>BRITTANY,NW FRANCE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  -2.915, 47.724</td></tr>
+<tr><th align="left">Depth</th><td>4</td></tr>
+<tr><th align="left">Magnitude</th><td>4.0</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131121095214.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  -2.915, 47.724</coordinates></Point>
+</Placemark><Placemark id="4">
+<name>Earthquake alert : M 7.8 :SCOTIA SEA</name>
+<address><a href="/earthquakes/recent_events/20131117090457.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-11-17 09:04</td></tr>
+<tr><th align="left">Location</th><td>SCOTIA SEA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -46.362,-60.296</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>7.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131117090457.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -46.362,-60.296</coordinates></Point>
+</Placemark><Placemark id="5">
+<name>Earthquake alert : M 6.8 :SCOTIA SEA</name>
+<address><a href="/earthquakes/recent_events/20131116033431.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-11-16 03:34</td></tr>
+<tr><th align="left">Location</th><td>SCOTIA SEA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -47.108,-60.213</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>6.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131116033431.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -47.108,-60.213</coordinates></Point>
+</Placemark><Placemark id="6">
+<name>Earthquake alert : M 6.6 :KAMCHATKA</name>
+<address><a href="/earthquakes/recent_events/20131112070352.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-11-12 07:03</td></tr>
+<tr><th align="left">Location</th><td>KAMCHATKA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 162.286, 54.681</td></tr>
+<tr><th align="left">Depth</th><td>47</td></tr>
+<tr><th align="left">Magnitude</th><td>6.6</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131112070352.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 162.286, 54.681</coordinates></Point>
+</Placemark><Placemark id="7">
+<name>Earthquake alert : M 6.6 :COQUIMBO,CHILE</name>
+<address><a href="/earthquakes/recent_events/20131031230357.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-31 23:03</td></tr>
+<tr><th align="left">Location</th><td>COQUIMBO,CHILE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -71.557,-30.298</td></tr>
+<tr><th align="left">Depth</th><td>29</td></tr>
+<tr><th align="left">Magnitude</th><td>6.6</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131031230357.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -71.557,-30.298</coordinates></Point>
+</Placemark><Placemark id="8">
+<name>Earthquake alert : M 6.3 :TAIWAN</name>
+<address><a href="/earthquakes/recent_events/20131031120209.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-31 12:02</td></tr>
+<tr><th align="left">Location</th><td>TAIWAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 121.443, 23.591</td></tr>
+<tr><th align="left">Depth</th><td>12</td></tr>
+<tr><th align="left">Magnitude</th><td>6.3</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131031120209.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 121.443, 23.591</coordinates></Point>
+</Placemark><Placemark id="9">
+<name>Earthquake alert : M 7.1 :OFFSHORE HONSHU,JAPAN</name>
+<address><a href="/earthquakes/recent_events/20131025171016.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-25 17:10</td></tr>
+<tr><th align="left">Location</th><td>OFFSHORE HONSHU,JAPAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 144.665, 37.170</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>7.1</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131025171016.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 144.665, 37.170</coordinates></Point>
+</Placemark><Placemark id="10">
+<name>Earthquake alert : M 6.7 :SOUTH SANDWICH ISLES</name>
+<address><a href="/earthquakes/recent_events/20131024192514.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-24 19:25</td></tr>
+<tr><th align="left">Location</th><td>SOUTH SANDWICH ISLES</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -12.950,-58.208</td></tr>
+<tr><th align="left">Depth</th><td>26</td></tr>
+<tr><th align="left">Magnitude</th><td>6.7</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131024192514.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -12.950,-58.208</coordinates></Point>
+</Placemark><Placemark id="11">
+<name>Earthquake alert : M 6.5 :GULF OF CALIFORNIA</name>
+<address><a href="/earthquakes/recent_events/20131019175458.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-19 17:54</td></tr>
+<tr><th align="left">Location</th><td>GULF OF CALIFORNIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-110.178, 26.268</td></tr>
+<tr><th align="left">Depth</th><td>8</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131019175458.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-110.178, 26.268</coordinates></Point>
+</Placemark><Placemark id="12">
+<name>Earthquake alert : M 6.8 :BOUGAINVILLE,PNG</name>
+<address><a href="/earthquakes/recent_events/20131016103100.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-16 10:31</td></tr>
+<tr><th align="left">Location</th><td>BOUGAINVILLE,PNG</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 154.928, -6.487</td></tr>
+<tr><th align="left">Depth</th><td>54</td></tr>
+<tr><th align="left">Magnitude</th><td>6.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131016103100.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 154.928, -6.487</coordinates></Point>
+</Placemark><Placemark id="13">
+<name>Earthquake alert : M 7.1 :BOHOL,PHILIPPINES</name>
+<address><a href="/earthquakes/recent_events/20131015001300.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-15 00:12</td></tr>
+<tr><th align="left">Location</th><td>BOHOL,PHILIPPINES</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 124.002,  9.765</td></tr>
+<tr><th align="left">Depth</th><td>56</td></tr>
+<tr><th align="left">Magnitude</th><td>7.1</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131015001300.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 124.002,  9.765</coordinates></Point>
+</Placemark><Placemark id="14">
+<name>Earthquake alert : M 6.4 :CRETE,GREECE</name>
+<address><a href="/earthquakes/recent_events/20131012131406.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-12 13:11</td></tr>
+<tr><th align="left">Location</th><td>CRETE,GREECE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  23.261, 35.487</td></tr>
+<tr><th align="left">Depth</th><td>36</td></tr>
+<tr><th align="left">Magnitude</th><td>6.4</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131012131406.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  23.261, 35.487</coordinates></Point>
+</Placemark><Placemark id="15">
+<name>Earthquake alert : M 6.1 :OFFSHORE VENEZUELA</name>
+<address><a href="/earthquakes/recent_events/20131012021028.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-12 02:10</td></tr>
+<tr><th align="left">Location</th><td>OFFSHORE VENEZUELA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -62.278, 10.877</td></tr>
+<tr><th align="left">Depth</th><td>79</td></tr>
+<tr><th align="left">Magnitude</th><td>6.1</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131012021028.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -62.278, 10.877</coordinates></Point>
+</Placemark><Placemark id="16">
+<name>Earthquake alert : M 3.2 :BRITTANY,NW FRANCE</name>
+<address><a href="/earthquakes/recent_events/20131011125200.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-11 12:52</td></tr>
+<tr><th align="left">Location</th><td>BRITTANY,NW FRANCE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  -4.290, 48.232</td></tr>
+<tr><th align="left">Depth</th><td>7</td></tr>
+<tr><th align="left">Magnitude</th><td>3.2</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131011125200.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  -4.290, 48.232</coordinates></Point>
+</Placemark><Placemark id="17">
+<name>Earthquake alert : M 5.5 :ROMANIA</name>
+<address><a href="/earthquakes/recent_events/20131006014142.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-06 01:37</td></tr>
+<tr><th align="left">Location</th><td>ROMANIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  26.897, 45.574</td></tr>
+<tr><th align="left">Depth</th><td>135</td></tr>
+<tr><th align="left">Magnitude</th><td>5.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131006014142.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  26.897, 45.574</coordinates></Point>
+</Placemark><Placemark id="18">
+<name>Earthquake alert : M 6.7 :SEA OF OKHOTSK</name>
+<address><a href="/earthquakes/recent_events/20131001034818.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-10-01 03:38</td></tr>
+<tr><th align="left">Location</th><td>SEA OF OKHOTSK</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 152.766, 53.173</td></tr>
+<tr><th align="left">Depth</th><td>578</td></tr>
+<tr><th align="left">Magnitude</th><td>6.7</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20131001034818.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 152.766, 53.173</coordinates></Point>
+</Placemark><Placemark id="19">
+<name>Earthquake alert : M 6.5 :KERMADEC ISLANDS</name>
+<address><a href="/earthquakes/recent_events/20130930055554.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-30 05:55</td></tr>
+<tr><th align="left">Location</th><td>KERMADEC ISLANDS</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-178.378,-30.880</td></tr>
+<tr><th align="left">Depth</th><td>42</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130930055554.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-178.378,-30.880</coordinates></Point>
+</Placemark><Placemark id="20">
+<name>Earthquake alert : M 6.8 :SW PAKISTAN</name>
+<address><a href="/earthquakes/recent_events/20130928073500.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-28 07:34</td></tr>
+<tr><th align="left">Location</th><td>SW PAKISTAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  65.806, 26.934</td></tr>
+<tr><th align="left">Depth</th><td>15</td></tr>
+<tr><th align="left">Magnitude</th><td>6.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130928073500.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  65.806, 26.934</coordinates></Point>
+</Placemark><Placemark id="21">
+<name>Earthquake alert : M 7.0 :OFFSHORE SOUTHERN PERU</name>
+<address><a href="/earthquakes/recent_events/20130925164242.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-25 16:42</td></tr>
+<tr><th align="left">Location</th><td>OFFSHORE SOUTHERN PERU</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -74.368,-15.881</td></tr>
+<tr><th align="left">Depth</th><td>46</td></tr>
+<tr><th align="left">Magnitude</th><td>7.0</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130925164242.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -74.368,-15.881</coordinates></Point>
+</Placemark><Placemark id="22">
+<name>Earthquake alert : M 7.7 :PAKISTAN</name>
+<address><a href="/earthquakes/recent_events/20130924113855.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-24 11:29</td></tr>
+<tr><th align="left">Location</th><td>PAKISTAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  65.651, 27.146</td></tr>
+<tr><th align="left">Depth</th><td>15</td></tr>
+<tr><th align="left">Magnitude</th><td>7.7</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130924113855.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  65.651, 27.146</coordinates></Point>
+</Placemark><Placemark id="23">
+<name>Earthquake alert : M 6.4 :GUATEMALA</name>
+<address><a href="/earthquakes/recent_events/20130907001330.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-07 00:13</td></tr>
+<tr><th align="left">Location</th><td>GUATEMALA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -91.821, 15.029</td></tr>
+<tr><th align="left">Depth</th><td>67</td></tr>
+<tr><th align="left">Magnitude</th><td>6.4</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130907001330.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -91.821, 15.029</coordinates></Point>
+</Placemark><Placemark id="24">
+<name>Earthquake alert : M 6.5 :ALEUTIAN ISLANDS</name>
+<address><a href="/earthquakes/recent_events/20130904023234.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-04 02:32</td></tr>
+<tr><th align="left">Location</th><td>ALEUTIAN ISLANDS</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-172.974, 51.647</td></tr>
+<tr><th align="left">Depth</th><td>20</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130904023234.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-172.974, 51.647</coordinates></Point>
+</Placemark><Placemark id="25">
+<name>Earthquake alert : M 3.1 :THE NETHERLANDS</name>
+<address><a href="/earthquakes/recent_events/20130904013308.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-04 01:33</td></tr>
+<tr><th align="left">Location</th><td>THE NETHERLANDS</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">   6.837, 53.340</td></tr>
+<tr><th align="left">Depth</th><td>19</td></tr>
+<tr><th align="left">Magnitude</th><td>3.1</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130904013308.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>   6.837, 53.340</coordinates></Point>
+</Placemark><Placemark id="26">
+<name>Earthquake alert : M 6.5 :BONIN ISLANDS,JAPAN</name>
+<address><a href="/earthquakes/recent_events/20130904002312.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-04 00:18</td></tr>
+<tr><th align="left">Location</th><td>BONIN ISLANDS,JAPAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 139.420, 27.891</td></tr>
+<tr><th align="left">Depth</th><td>407</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130904002312.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 139.420, 27.891</coordinates></Point>
+</Placemark><Placemark id="27">
+<name>Earthquake alert : M 6.5 :BARAT DAYA,INDONESIA</name>
+<address><a href="/earthquakes/recent_events/20130901115232.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-09-01 11:52</td></tr>
+<tr><th align="left">Location</th><td>BARAT DAYA,INDONESIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 128.218, -7.437</td></tr>
+<tr><th align="left">Depth</th><td>112</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130901115232.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 128.218, -7.437</coordinates></Point>
+</Placemark><Placemark id="28">
+<name>Earthquake alert : M 5.6 :YUNNAN,CHINA</name>
+<address><a href="/earthquakes/recent_events/20130831000418.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-08-31 00:04</td></tr>
+<tr><th align="left">Location</th><td>YUNNAN,CHINA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  99.375, 28.227</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>5.6</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130831000418.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  99.375, 28.227</coordinates></Point>
+</Placemark><Placemark id="29">
+<name>Earthquake alert : M 7.0 :ALEUTIAN ISLANDS</name>
+<address><a href="/earthquakes/recent_events/20130830162503.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-08-30 16:25</td></tr>
+<tr><th align="left">Location</th><td>ALEUTIAN ISLANDS</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-174.499, 51.880</td></tr>
+<tr><th align="left">Depth</th><td>33</td></tr>
+<tr><th align="left">Magnitude</th><td>7.0</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130830162503.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-174.499, 51.880</coordinates></Point>
+</Placemark><Placemark id="30">
+<name>Earthquake alert : M 6.2 :GUERRERO,MEXICO</name>
+<address><a href="/earthquakes/recent_events/20130821123833.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-08-21 12:38</td></tr>
+<tr><th align="left">Location</th><td>GUERRERO,MEXICO</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -99.050, 17.417</td></tr>
+<tr><th align="left">Depth</th><td>21</td></tr>
+<tr><th align="left">Magnitude</th><td>6.2</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130821123833.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -99.050, 17.417</coordinates></Point>
+</Placemark><Placemark id="31">
+<name>Earthquake alert : M 6.5 :COOK STRAIT,NEW ZEALAND</name>
+<address><a href="/earthquakes/recent_events/20130816025029.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-08-16 02:30</td></tr>
+<tr><th align="left">Location</th><td>COOK STRAIT,NEW ZEALAND</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 173.981,-42.341</td></tr>
+<tr><th align="left">Depth</th><td>8</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130816025029.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 173.981,-42.341</coordinates></Point>
+</Placemark><Placemark id="32">
+<name>Earthquake alert : M 6.7 :OFFSHORE COLOMBIA</name>
+<address><a href="/earthquakes/recent_events/20130813155333.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-08-13 15:43</td></tr>
+<tr><th align="left">Location</th><td>OFFSHORE COLOMBIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -78.361,  5.265</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>6.7</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130813155333.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -78.361,  5.265</coordinates></Point>
+</Placemark><Placemark id="33">
+<name>Earthquake alert : M 5.7 :EASTERN TIBET,CHINA</name>
+<address><a href="/earthquakes/recent_events/20130811213245.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-08-11 21:23</td></tr>
+<tr><th align="left">Location</th><td>EASTERN TIBET,CHINA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  98.011, 29.987</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>5.7</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130811213245.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  98.011, 29.987</coordinates></Point>
+</Placemark><Placemark id="34">
+<name>Earthquake alert : M 5.9 :GANSU,NORTHWEST CHINA</name>
+<address><a href="/earthquakes/recent_events/20130721234556.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-21 23:45</td></tr>
+<tr><th align="left">Location</th><td>GANSU,NORTHWEST CHINA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 104.938, 33.927</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>5.9</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130721234556.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 104.938, 33.927</coordinates></Point>
+</Placemark><Placemark id="35">
+<name>Earthquake alert : M 6.5 :COOK STRAIT,NEW ZEALAND</name>
+<address><a href="/earthquakes/recent_events/20130721050931.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-21 05:09</td></tr>
+<tr><th align="left">Location</th><td>COOK STRAIT,NEW ZEALAND</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 175.278,-41.011</td></tr>
+<tr><th align="left">Depth</th><td>15</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130721050931.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 175.278,-41.011</coordinates></Point>
+</Placemark><Placemark id="36">
+<name>Earthquake alert : M 4.8 :NORTHERN ALGERIA</name>
+<address><a href="/earthquakes/recent_events/20130717030235.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-17 03:01</td></tr>
+<tr><th align="left">Location</th><td>NORTHERN ALGERIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">   2.989, 37.083</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>4.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130717030235.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>   2.989, 37.083</coordinates></Point>
+</Placemark><Placemark id="37">
+<name>Earthquake alert : M 7.3 :SOUTH SANDWICH ISLANDS</name>
+<address><a href="/earthquakes/recent_events/20130715140344.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-15 14:03</td></tr>
+<tr><th align="left">Location</th><td>SOUTH SANDWICH ISLANDS</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -25.070,-60.857</td></tr>
+<tr><th align="left">Depth</th><td>11</td></tr>
+<tr><th align="left">Magnitude</th><td>7.3</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130715140344.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -25.070,-60.857</coordinates></Point>
+</Placemark><Placemark id="38">
+<name>Earthquake alert : M 6.6 :PAPUA NEW GUINEA</name>
+<address><a href="/earthquakes/recent_events/20130707203007.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-07 20:30</td></tr>
+<tr><th align="left">Location</th><td>PAPUA NEW GUINEA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 149.706, -6.029</td></tr>
+<tr><th align="left">Depth</th><td>56</td></tr>
+<tr><th align="left">Magnitude</th><td>6.6</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130707203007.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 149.706, -6.029</coordinates></Point>
+</Placemark><Placemark id="39">
+<name>Earthquake alert : M 7.3 :PAPUA NEW GUINEA</name>
+<address><a href="/earthquakes/recent_events/20130707183530.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-07 18:35</td></tr>
+<tr><th align="left">Location</th><td>PAPUA NEW GUINEA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 153.927, -3.917</td></tr>
+<tr><th align="left">Depth</th><td>386</td></tr>
+<tr><th align="left">Magnitude</th><td>7.3</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130707183530.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 153.927, -3.917</coordinates></Point>
+</Placemark><Placemark id="40">
+<name>Earthquake alert : M 3.4 :THE NETHERLANDS</name>
+<address><a href="/earthquakes/recent_events/20130702230332.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-02 23:03</td></tr>
+<tr><th align="left">Location</th><td>THE NETHERLANDS</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">   6.787, 53.325</td></tr>
+<tr><th align="left">Depth</th><td>5</td></tr>
+<tr><th align="left">Magnitude</th><td>3.4</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130702230332.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>   6.787, 53.325</coordinates></Point>
+</Placemark><Placemark id="41">
+<name>Earthquake alert : M 6.1 :SUMATRA,INDONESIA</name>
+<address><a href="/earthquakes/recent_events/20130702073702.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-07-02 07:37</td></tr>
+<tr><th align="left">Location</th><td>SUMATRA,INDONESIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  96.665,  4.645</td></tr>
+<tr><th align="left">Depth</th><td>13</td></tr>
+<tr><th align="left">Magnitude</th><td>6.1</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130702073702.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  96.665,  4.645</coordinates></Point>
+</Placemark><Placemark id="42">
+<name>Earthquake alert : M 6.6 :MID-ATLANTIC RIDGE</name>
+<address><a href="/earthquakes/recent_events/20130624220413.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-06-24 22:04</td></tr>
+<tr><th align="left">Location</th><td>MID-ATLANTIC RIDGE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -42.837, 10.210</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>6.6</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130624220413.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -42.837, 10.210</coordinates></Point>
+</Placemark><Placemark id="43">
+<name>Earthquake alert : M 6.5 :NICARAGUA</name>
+<address><a href="/earthquakes/recent_events/20130615173429.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-06-15 17:34</td></tr>
+<tr><th align="left">Location</th><td>NICARAGUA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -86.926, 11.763</td></tr>
+<tr><th align="left">Depth</th><td>30</td></tr>
+<tr><th align="left">Magnitude</th><td>6.5</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130615173429.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -86.926, 11.763</coordinates></Point>
+</Placemark><Placemark id="44">
+<name>Earthquake alert : M 6.2 :CRETE,GREECE</name>
+<address><a href="/earthquakes/recent_events/20130615161100.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-06-15 16:10</td></tr>
+<tr><th align="left">Location</th><td>CRETE,GREECE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  25.219, 33.516</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>6.2</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130615161100.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  25.219, 33.516</coordinates></Point>
+</Placemark><Placemark id="45">
+<name>Earthquake alert : M 6.7 :JAVA,INDONESIA</name>
+<address><a href="/earthquakes/recent_events/20130613164723.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-06-13 16:47</td></tr>
+<tr><th align="left">Location</th><td>JAVA,INDONESIA</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 107.236,-10.004</td></tr>
+<tr><th align="left">Depth</th><td>9</td></tr>
+<tr><th align="left">Magnitude</th><td>6.7</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130613164723.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 107.236,-10.004</coordinates></Point>
+</Placemark><Placemark id="46">
+<name>Earthquake alert : M 6.2 :TAIWAN</name>
+<address><a href="/earthquakes/recent_events/20130602054304.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-06-02 05:42</td></tr>
+<tr><th align="left">Location</th><td>TAIWAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 121.403, 23.113</td></tr>
+<tr><th align="left">Depth</th><td>17</td></tr>
+<tr><th align="left">Magnitude</th><td>6.2</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130602054304.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 121.403, 23.113</coordinates></Point>
+</Placemark><Placemark id="47">
+<name>Earthquake alert : M 5.6 :MINDANAO,PHILIPPINES</name>
+<address><a href="/earthquakes/recent_events/20130601141007.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-06-01 14:10</td></tr>
+<tr><th align="left">Location</th><td>MINDANAO,PHILIPPINES</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 124.898,  7.275</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>5.6</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130601141007.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 124.898,  7.275</coordinates></Point>
+</Placemark><Placemark id="48">
+<name>Earthquake alert : M 6.8 :SEA OF OKHOTSK</name>
+<address><a href="/earthquakes/recent_events/20130524145631.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-24 14:56</td></tr>
+<tr><th align="left">Location</th><td>SEA OF OKHOTSK</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 152.793, 52.123</td></tr>
+<tr><th align="left">Depth</th><td>624</td></tr>
+<tr><th align="left">Magnitude</th><td>6.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130524145631.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 152.793, 52.123</coordinates></Point>
+</Placemark><Placemark id="49">
+<name>Earthquake alert : M 8.3 :SEA OF OKHOTSK</name>
+<address><a href="/earthquakes/recent_events/20130524054449.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-24 05:44</td></tr>
+<tr><th align="left">Location</th><td>SEA OF OKHOTSK</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 154.744, 54.805</td></tr>
+<tr><th align="left">Depth</th><td>610</td></tr>
+<tr><th align="left">Magnitude</th><td>8.3</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130524054449.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 154.744, 54.805</coordinates></Point>
+</Placemark><Placemark id="50">
+<name>Earthquake alert : M 6.3 :TONGA REGION</name>
+<address><a href="/earthquakes/recent_events/20130523210744.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-23 21:07</td></tr>
+<tr><th align="left">Location</th><td>TONGA REGION</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-175.759,-20.578</td></tr>
+<tr><th align="left">Depth</th><td>150</td></tr>
+<tr><th align="left">Magnitude</th><td>6.3</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130523210744.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-175.759,-20.578</coordinates></Point>
+</Placemark><Placemark id="51">
+<name>Earthquake alert : M 7.4 :TONGA REGION</name>
+<address><a href="/earthquakes/recent_events/20130523171904.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-23 17:19</td></tr>
+<tr><th align="left">Location</th><td>TONGA REGION</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-177.232,-23.009</td></tr>
+<tr><th align="left">Depth</th><td>164</td></tr>
+<tr><th align="left">Magnitude</th><td>7.4</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130523171904.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-177.232,-23.009</coordinates></Point>
+</Placemark><Placemark id="52">
+<name>Earthquake alert : M 6.4 :OFFSHORE AISEN,CHILE</name>
+<address><a href="/earthquakes/recent_events/20130520094904.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-20 09:49</td></tr>
+<tr><th align="left">Location</th><td>OFFSHORE AISEN,CHILE</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> -80.746,-44.866</td></tr>
+<tr><th align="left">Depth</th><td>10</td></tr>
+<tr><th align="left">Magnitude</th><td>6.4</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130520094904.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> -80.746,-44.866</coordinates></Point>
+</Placemark><Placemark id="53">
+<name>Earthquake alert : M 6.8 :NORTHERN MARIANA ISLES</name>
+<address><a href="/earthquakes/recent_events/20130514003225.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-14 00:32</td></tr>
+<tr><th align="left">Location</th><td>NORTHERN MARIANA ISLES</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap"> 145.288, 18.728</td></tr>
+<tr><th align="left">Depth</th><td>602</td></tr>
+<tr><th align="left">Magnitude</th><td>6.8</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130514003225.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates> 145.288, 18.728</coordinates></Point>
+</Placemark><Placemark id="54">
+<name>Earthquake alert : M 6.4 :TONGA REGION</name>
+<address><a href="/earthquakes/recent_events/20130511210426.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-11 20:46</td></tr>
+<tr><th align="left">Location</th><td>TONGA REGION</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">-175.107,-17.965</td></tr>
+<tr><th align="left">Depth</th><td>213</td></tr>
+<tr><th align="left">Magnitude</th><td>6.4</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130511210426.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>-175.107,-17.965</coordinates></Point>
+</Placemark><Placemark id="55">
+<name>Earthquake alert : M 6.0 :SOUTHERN IRAN</name>
+<address><a href="/earthquakes/recent_events/20130511020814.html">More information</a></address>
+<description><![CDATA[
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><th align="left">Origin date/time</th><td nowrap="nowrap">2013-05-11 02:08</td></tr>
+<tr><th align="left">Location</th><td>SOUTHERN IRAN</td></tr>
+<tr><th align="left">Lon/lat</th><td nowrap="nowrap">  58.170, 25.980</td></tr>
+<tr><th align="left">Depth</th><td>15</td></tr>
+<tr><th align="left">Magnitude</th><td>6.0</td></tr>
+<tr><th align="left">Details</th><td><a href="/earthquakes/recent_events/20130511020814.html">More information</a></td></tr>
+</table>
+]]></description>
+<styleUrl>#kml_style_ft_Seismic event</styleUrl>
+<Point><coordinates>  58.170, 25.980</coordinates></Point>
+</Placemark></Document>
+</kml>

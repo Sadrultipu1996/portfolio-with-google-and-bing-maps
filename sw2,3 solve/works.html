@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Tipu</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        div.dark {
+         
+          padding-left: 50px;
+        }
+        </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Sadrul Akhter</span> Tipu</h1>
+        </div>
+		<nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="contact.html" style="color: rgb(192, 18, 18);">Contact</a></li>
+            <li><a href="works.html">My Work</a></li>
+            <li><a href="mymaps.html">My Maps</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+	<div class="dark">
+		<table width = "100%" border = "0">
+         
+            <tr>
+               <td colspan = "2" bgcolor = "#000000">
+                  <h1>Javascript Practice Codes</h1>
+               </td>
+            </tr>
+            <tr valign = "top">
+               <td bgcolor = "#black" width = "50%">
+                  <b style="color: rgba(255, 68, 0, 0.897);">a. Concatenate Strings</b><br/>
+                  Enter 2 strings in each of the boxes, then press concatenate.
+                  The output will be a concatenated string of the 2 strings given.
+               </td>
+               
+               <td bgcolor = "#orange" width = "50%" height = "120">
+                <form>
+                    <input type="text" id="string1" placeholder="Insert first string"></br>
+                    <input type="text" id="string2" placeholder="Insert second string">
+                </form><p id="output"></p>
+                      </br>
+                    <button onclick="concatenate()">Concatenate</button></br>
+                    <script>
+                        function concatenate() {
+                            var str1 = document.getElementById("string1").value;
+                            var str2 = document.getElementById("string2").value;
+                            var res = str1.concat(str2);
+                            console.log(res);
+                            document.getElementById("output").innerHTML = res;
+                        }
+                    </script>
+               </td>
+            </tr>
+            <tr valign = "top">
+               <td bgcolor = "#black" width = "20">
+                  <b style="color: rgba(255, 68, 0, 0.897);">b.	The use of array methods</b><br/>
+                  Enter a sentence in the text box and watch it magically reverse.
+               </td>
+               
+               <td bgcolor = "#orange" width = "100" height = "50">
+                    <form>
+                    <input id="inputPounds" type="text" placeholder="Series" oninput="seriesanalyzer(this.value)" onchange="seriesanalyzer(this.value)">
+                    <p>Reverse Order: <span id="outputReverse"></span></p>
+                    </form><p id="output"></p>
+                      </br>
+                    <script>
+                        function seriesanalyzer(valNum) {
+                            arr = valNum.split(' ');
+                            //console.log(valNum);
+                            arrRev= arr.reverse();
+                            var x=arrRev.toString();
+                            document.getElementById("outputReverse").innerHTML=x;
+                        }
+                    </script>
+               </td>
+            </tr>
+            <tr valign = "top">
+                <td bgcolor = "#black" width = "20">
+                   <b style="color: rgba(255, 68, 0, 0.897);">c.using a while loop</b><br/>
+                   Enter a sentence in the text box and watch it magically reverse.
+                </td>
+                
+                <td bgcolor = "#orange" width = "100" height = "50">
+                     <form>
+                     <input id="inputnum" type="number" placeholder="number" oninput="hello(this.value)" onchange="hello(this.value)">
+                     <p>Hello printing: <span id="outputhello"></span></p>
+                     </form>
+                       </br>
+                     <script>
+                         function hello(valNum) {
+                             var num = document.getElementById("inputnum").value;
+                             //console.log(valNum)
+                             num=num-1;
+                             var arr=[];
+                             while(num>=0){
+                                arr[num]="Hello";
+                                num=num-1;
+                             }
+                             
+                             var x=arr.toString();
+                             document.getElementById("outputhello").innerHTML=x;
+                         }
+                     </script>
+                </td>
+             </tr>
+
+             <tr valign = "top">
+                <td bgcolor = "#black" width = "20">
+                   <b style="color: rgba(255, 68, 0, 0.897);">d.using a for loop</b><br/>
+                   Enter a sentence in the text box with extra spaces and watch the spaces disappear.
+                </td>
+                
+                <td bgcolor = "#orange" width = "100" height = "50">
+                     <form>
+                        <input type="text" id="strn" placeholder="Insert string">
+                        
+                     </form><p id="outputfor"></p>
+                     <button onclick="Strip()">Remove spaces</button></br>
+                       </br>
+                     <script>
+                         function Strip() {
+                            var str = document.getElementById("strn").value;
+                            str=str.replace(/^\s*[\r\n]/gm, "");
+                            var arr = str.split('\n');
+                            for (let i = arr.length - 1; i >= 0; i--) {
+                            arr[i]=arr[i].trim();
+                            }
+                            var x = arr.toString();
+                            x = x.replace(/,/g, "\n");
+                            console.log(x);
+                            document.getElementById("outputfor").innerHTML = x;
+                        }
+                     </script>
+                </td>
+             </tr>
+             <tr valign = "top">
+                <td bgcolor = "#black" width = "50%">
+                   <b style="color: rgba(255, 68, 0, 0.897);">2. Add 3 numbers with internal function</b><br/>
+                   Enter 3 numbers in each of the boxes, then press add.
+                   The output will be an addition of the 3 numbers given.
+                </td>
+                
+                <td bgcolor = "#orange" width = "50%" height = "120">
+                 <form>
+                     <input type="text" id="int1" placeholder="Insert first number"></br>
+                     <input type="text" id="int2" placeholder="Insert second number"></br>
+                     <input type="text" id="int3" placeholder="Insert third number"></br>
+
+                 </form><p id="outputSum"></p>
+                       </br>
+                     <button onclick="suminternal()">Sum</button></br>
+                     <script>
+                         function suminternal() {
+                             var str1 = parseFloat(document.getElementById("int1").value);
+                             var str2 = parseFloat(document.getElementById("int2").value);
+                             var str3 = parseFloat(document.getElementById("int3").value);
+                             var result = str1+str2+str3;
+                             console.log(result);
+                             document.getElementById("outputSum").innerHTML = result;
+                         }
+                     </script>
+                </td>
+             </tr>
+             <tr valign = "top">
+                <td bgcolor = "#black" width = "50%">
+                   <b style="color: rgba(255, 68, 0, 0.897);">3. Add 3 numbers with External function</b><br/>
+                   Enter 3 numbers in each of the boxes, then press add.
+                   The output will be an addition of the 3 numbers given.
+                </td>
+                
+                <td bgcolor = "#orange" width = "50%" height = "120">
+                 <form>
+                     <input type="text" id="int4" placeholder="Insert first number"></br>
+                     <input type="text" id="int5" placeholder="Insert second number"></br>
+                     <input type="text" id="int6" placeholder="Insert third number"></br>
+
+                 </form><p id="outputSum2"></p>
+                       </br>
+                     <button onclick="sumexternal()">Sum</button></br>
+                     <script src="myScript.js"></script>
+                </td>
+             </tr>
+
+         </table>
+</div>
+</div>
+<footer>
+    Created by TIPU
+  </footer>
+</body>
+</html>

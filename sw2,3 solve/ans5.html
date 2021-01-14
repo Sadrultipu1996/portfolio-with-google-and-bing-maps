@@ -1,0 +1,24 @@
+<html>
+  <head></head>
+  <body>
+      Give your Date of Birth in the following format: YYYYMMDD:
+      <input type="text" id="dob" placeholder="Insert first number"></br>
+      <p id="yourage"></p>
+      <button onclick="yourage()">Calculate your age</button></br>
+    <script>
+        function yourage(){
+      var dob = document.getElementById("dob").value;
+      var year = Number(dob.substr(0, 4));
+      var month = Number(dob.substr(4, 2)) - 1;
+      var day = Number(dob.substr(6, 2));
+      var today = new Date();
+      var age = today.getFullYear() - year;
+      if (today.getMonth() < month || (today.getMonth() == month && today.getDate() < day)) 
+      {
+        age--;
+      }
+      document.getElementById("yourage").innerHTML = age;
+    }
+    </script>
+  </body>
+</html>

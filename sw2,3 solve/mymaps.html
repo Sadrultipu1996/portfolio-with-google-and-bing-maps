@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Tipu</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        div.dark {
+         
+          padding-left: 50px;
+        }
+        </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Sadrul Akhter</span> Tipu</h1>
+        </div>
+		<nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="contact.html" style="color: rgb(192, 18, 18);">Contact</a></li>
+            <li><a href="works.html">My Work</a></li>
+            <li><a href="mymaps.html">My Maps</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+	<div class="dark">
+<h1>SW5 Solve:</h1>
+<button type="nav" class="button_1" ><a href="sw5 solve/swinseaMarker.html">Swinsea Marker</a></button>
+<button type="nav" class="button_1" ><a href="sw5 solve/castlesinwales.html">Castles in Wales</a></button>
+<button type="nav" class="button_1" ><a href="sw5 solve/polygons.html">Polygons</a></button>
+<button type="nav" class="button_1" ><a href="sw5 solve/routing.html">Routing</a></button>
+<button type="nav" class="button_1" ><a href="sw5 solve/interactiveMarker.html">Interactive Marker</a></button>
+<h1>SW6 and SW7 Solve:</h1>
+<button type="nav" class="button_1" ><a href="sw6 solve/akmlmap.html">Hard Code KML</a></button>
+<button type="nav" class="button_1" ><a href="sw6 solve/bconvertkml.html">KML Convert</a></button>
+<button type="nav" class="button_1" ><a href="sw6 solve/modifyingbasemap.html">Modifying Base Map</a></button>
+<button type="nav" class="button_1" ><a href="sw6 solve/bing.html">Bing</a></button>
+<center><h1>Welsh Map(Google Maps API)</h1></center>
+
+<div id="googleMap" style="width:100%;height:600px;border: 2px solid blue;"></div>
+
+<script>
+function myMap() {
+var mapProp= {
+  center:new google.maps.LatLng(51.417,-3.573),
+  zoom:7,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcmwrX8vxpNkSnZZScp5WboKzRycDJ9Zo&callback=myMap"></script>
+
+
+</div>
+</div>
+<footer>
+    Created by TIPU
+  </footer>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<html>
+<body>
+
+<h2>Object creation JS</h2>
+
+<p id="demo"></p>
+
+<script>
+// Constructor function for Person objects
+function Employee(name, dateOfBirth, jobTitle , departmentNumber) {
+  this.name = name;
+  this.dateOfBirth = dateOfBirth;
+  this.jobTitle = jobTitle;
+  this.departmentNumber = departmentNumber;
+}
+
+// Create a Person object
+var tipu = new Employee("tipu", "19960818", "Software Engineer", "blue");
+
+// Display age
+document.getElementById("demo").innerHTML =
+"New Employee is " + tipu.name + ". He is a "+tipu.jobTitle+"."; 
+</script>
+
+</body>
+</html>
